@@ -3,3 +3,7 @@
 Python Script to download a file and calculate its checksum values for MD5, SHA-1 and SHA-256 algorithms.
 
 It will download the file to the path where it runs.
+
+## Requirements
+
+* Python 3
